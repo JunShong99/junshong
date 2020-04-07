@@ -6,3 +6,6 @@ This project shows the application of Pos Laju Malaysia consisting 4 types of se
 https://github.com/JunShong99/junshong/blob/master/image.png
 # image
 ![image](https://user-images.githubusercontent.com/60839609/78670583-94234b00-7910-11ea-85c8-68c1126c771f.png)
+# imageFromFolder
+![](https://github.com/JunShong99/junshong/blob/master/Screenshots/Screenshot%20(7).png)
+![](https://github.com/JunShong99/junshong/blob/master/Screenshots/Screenshot%20(8).png)
